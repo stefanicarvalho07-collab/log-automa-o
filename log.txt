@@ -1,0 +1,34 @@
+
+Configuraá∆o de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : ifce.edu.br
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::36b9:18c3:e66a:9701%8
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.56.1
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : ifce.edu.br
+   Endereáo IPv6 de link local . . . . . . . . : fe80::bbcc:81ee:6885:72e3%13
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.100.0.210
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.254.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 10.100.0.1
